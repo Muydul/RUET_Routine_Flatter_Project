@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981106181102",
+    "project_id": "ruet-cse",
+    "storage_bucket": "ruet-cse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981106181102:android:ec2df29b934fbb4b96c4ff",
+        "android_client_info": {
+          "package_name": "com.example.ruet_cse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981106181102-2co5b6eco1r6hb34a0p0b6foap8crolt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruet_cse",
+            "certificate_hash": "075019c3028bab39adadf379cbce31ae60f99333"
+          }
+        },
+        {
+          "client_id": "981106181102-o90j41eitpgm6qav94d4bc3dau4hjit4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK95gYk8oVzVJe0RwfbUh-ZJM-MQcQqMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981106181102-o90j41eitpgm6qav94d4bc3dau4hjit4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
